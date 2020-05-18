@@ -11,4 +11,5 @@ You can find all presentations, code and other materials from the Windows Server
 [5. Domain Controller Virtualization and Cloning on Windows Server 2012 R2](https://youtu.be/PXiJgC0B5jA)<br/>
 [6. Windows Server 2012 R2 Active Directory Recycle Bin](https://youtu.be/Cha8qaVN_fc)<br/>
 [7. Features on Demand and .NET Framework 3.5](https://youtu.be/V_kK_RQrjAY)<br/>
-[8. Windows Server with a GUI, Server Core and Minimal Server Interface](https://youtu.be/LsbeAcT1ZxU)
+[8. Windows Server with a GUI, Server Core and Minimal Server Interface](https://youtu.be/LsbeAcT1ZxU)<br/>
+[9. Demote a Windows Server 2012 R2 Core Domain Controller with Powershell](https://youtu.be/lH87d4L_Osw)
