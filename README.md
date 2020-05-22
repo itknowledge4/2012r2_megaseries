@@ -13,4 +13,5 @@ You can find all presentations, code and other materials from the Windows Server
 [7. Features on Demand and .NET Framework 3.5](https://youtu.be/V_kK_RQrjAY)<br/>
 [8. Windows Server with a GUI, Server Core and Minimal Server Interface](https://youtu.be/LsbeAcT1ZxU)<br/>
 [9. Demote a Windows Server 2012 R2 Core Domain Controller with Powershell](https://youtu.be/lH87d4L_Osw)<br/>
-[10. Install and Configure Windows Server 2012 R2 Server Core](https://youtu.be/cwKxO6CD62s)
+[10. Install and Configure Windows Server 2012 R2 Server Core](https://youtu.be/cwKxO6CD62s)<br/>
+[11. Install and Configure DHCP on Windows Server 2012 R2 Core with Powershell](https://youtu.be/_ShDIEqRhdA)
