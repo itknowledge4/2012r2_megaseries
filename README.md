@@ -15,4 +15,5 @@ You can find all presentations, code and other materials from the Windows Server
 [9. Demote a Windows Server 2012 R2 Core Domain Controller with Powershell](https://youtu.be/lH87d4L_Osw)<br/>
 [10. Install and Configure Windows Server 2012 R2 Server Core](https://youtu.be/cwKxO6CD62s)<br/>
 [11. Install and Configure DHCP on Windows Server 2012 R2 Core with Powershell](https://youtu.be/_ShDIEqRhdA)<br/>
-[12. Introduction to DHCP Failover on Windows Server 2012 R2](https://youtu.be/nu1JzJfEUmM)
+[12. Introduction to DHCP Failover on Windows Server 2012 R2](https://youtu.be/nu1JzJfEUmM)<br/>
+[13. Configure DHCP Failover on Windows Server 2012 R2 with Powershell](https://youtu.be/2zAMAVUrmYw)
