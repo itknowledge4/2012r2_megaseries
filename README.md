@@ -18,4 +18,5 @@ You can find all presentations, code and other materials from the Windows Server
 [12. Introduction to DHCP Failover on Windows Server 2012 R2](https://youtu.be/nu1JzJfEUmM)<br/>
 [13. Configure DHCP Failover on Windows Server 2012 R2 with Powershell](https://youtu.be/2zAMAVUrmYw)<br/>
 [14. Introduction to IPAM on Windows Server 2012 R2](https://youtu.be/EfXb2PsEks0)<br/>
-[15. Install and Configure IPAM on Windows Server 2012 R2](https://youtu.be/0OKswe3Xylg)
+[15. Install and Configure IPAM on Windows Server 2012 R2](https://youtu.be/0OKswe3Xylg)<br/>
+[16. Install and Configure Windows Deployment Services on Windows Server 2012 R2](https://youtu.be/0RNIFNvNMfM)
