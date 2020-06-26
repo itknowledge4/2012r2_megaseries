@@ -24,4 +24,5 @@ You can find all presentations, code and other materials from the Windows Server
 [18. Inject WSUS updates in a Windows Server 2012 R2 image with Powershell](https://youtu.be/QP33RL5fI_U)<br/>
 [19. Introduction to BranchCache on Windows Server 2012 R2](https://youtu.be/XQ7gHy8fWa8)<br/>
 [20. Adding a new AD site and a new DHCP scope to DHCP Failover on Windows Server 2012 R2](https://youtu.be/xGIw892GRIs)<br/>
-[21. Configure BranchCache in Distributed Mode on Windows Server 2012 R2](https://youtu.be/TON-VF3lWME)
+[21. Configure BranchCache in Distributed Mode on Windows Server 2012 R2](https://youtu.be/TON-VF3lWME)<br/>
+[22. Configure BranchCache in Hosted Mode on Windows Server 2012 R2](https://youtu.be/eTFzJCABdgE)
