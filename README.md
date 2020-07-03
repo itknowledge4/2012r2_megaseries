@@ -27,4 +27,5 @@ You can find all presentations, code and other materials from the Windows Server
 [21. Configure BranchCache in Distributed Mode on Windows Server 2012 R2](https://youtu.be/TON-VF3lWME)<br/>
 [22. Configure BranchCache in Hosted Mode on Windows Server 2012 R2](https://youtu.be/eTFzJCABdgE)<br/>
 [23. Data Deduplication on Windows Server 2012 R2](https://youtu.be/0bGQ-4Y9tQ8)<br/>
-[24. Introduction to Storage Spaces on Windows Server 2012 R2](https://youtu.be/y85PO-jKW_o)
+[24. Introduction to Storage Spaces on Windows Server 2012 R2](https://youtu.be/y85PO-jKW_o)<br/>
+[25. Configure Storage Spaces on Windows Server 2012 R2 with Powershell](https://youtu.be/Rjzhn9b4TX0)
