@@ -29,4 +29,5 @@ You can find all presentations, code and other materials from the Windows Server
 [23. Data Deduplication on Windows Server 2012 R2](https://youtu.be/0bGQ-4Y9tQ8)<br/>
 [24. Introduction to Storage Spaces on Windows Server 2012 R2](https://youtu.be/y85PO-jKW_o)<br/>
 [25. Configure Storage Spaces on Windows Server 2012 R2 with Powershell](https://youtu.be/Rjzhn9b4TX0)<br/>
-[26. Configure iSCSI target on Windows Server 2012 R2 Core with Powershell](https://youtu.be/uopqhFOTJ4s)
+[26. Configure iSCSI target on Windows Server 2012 R2 Core with Powershell](https://youtu.be/uopqhFOTJ4s)<br/>
+[27. Configure a Failover Cluster on Windows Server 2012 R2 Core with Powershell](https://youtu.be/3VECtmND6ZM)
