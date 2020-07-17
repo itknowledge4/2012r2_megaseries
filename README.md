@@ -32,4 +32,5 @@ You can find all presentations, code and other materials from the Windows Server
 [26. Configure iSCSI target on Windows Server 2012 R2 Core with Powershell](https://youtu.be/uopqhFOTJ4s)<br/>
 [27. Configure a Failover Cluster on Windows Server 2012 R2 Core with Powershell](https://youtu.be/3VECtmND6ZM)<br/>
 [28. Implement Continuously Available File Shares with Powershell on Windows Server 2012 R2 Core](https://youtu.be/lxHWSJglgJA)<br/>
-[29. Encrypt Cluster Shared Volumes with Powershell on Windows Server 2012 R2 with Powershell](https://youtu.be/jWLiVMEtEPg)
+[29. Encrypt Cluster Shared Volumes with Powershell on Windows Server 2012 R2 with Powershell](https://youtu.be/jWLiVMEtEPg)<br/>
+[30. Configure Clustered Scheduled Tasks with Powershell on Windows Server 2012 R2](https://youtu.be/fz8deBJeMGc)
