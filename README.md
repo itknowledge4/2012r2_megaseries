@@ -36,4 +36,5 @@ You can find all presentations, code and other materials from the Windows Server
 [30. Configure Clustered Scheduled Tasks with Powershell on Windows Server 2012 R2](https://youtu.be/fz8deBJeMGc)<br/>
 [31. Cluster Aware Updating with Powershell on Windows Server 2012 R2](https://youtu.be/eUZxJ6PG4z8)<br/>
 [32. Introduction to Hyper-V](https://youtu.be/LAfN-hYvhng)<br/>
-[33. Basic Hyper-V Configuration with Powershell on Windows Server 2012 R2](https://youtu.be/f1cFAdH7iSs)
+[33. Basic Hyper-V Configuration with Powershell on Windows Server 2012 R2](https://youtu.be/f1cFAdH7iSs)<br/>
+[34. Generation 2 Virtual Machines on Windows Server 2012 R2](https://youtu.be/UQNJOORqVWs)
