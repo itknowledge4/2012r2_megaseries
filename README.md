@@ -38,4 +38,5 @@ You can find all presentations, code and other materials from the Windows Server
 [32. Introduction to Hyper-V](https://youtu.be/LAfN-hYvhng)<br/>
 [33. Basic Hyper-V Configuration with Powershell on Windows Server 2012 R2](https://youtu.be/f1cFAdH7iSs)<br/>
 [34. Generation 2 Virtual Machines on Windows Server 2012 R2](https://youtu.be/UQNJOORqVWs)<br/>
-[35. Enhanced Session Mode for Virtual Machines in Windows Server 2012 R2](https://youtu.be/UAmzbAnYbsk)
+[35. Enhanced Session Mode for Virtual Machines in Windows Server 2012 R2](https://youtu.be/UAmzbAnYbsk)<br/>
+[36. Hyper-V snapshots with Powershell on Windows Server 2012 R2](https://youtu.be/BEfU1MgWr00)
