@@ -40,4 +40,5 @@ You can find all presentations, code and other materials from the Windows Server
 [34. Generation 2 Virtual Machines on Windows Server 2012 R2](https://youtu.be/UQNJOORqVWs)<br/>
 [35. Enhanced Session Mode for Virtual Machines in Windows Server 2012 R2](https://youtu.be/UAmzbAnYbsk)<br/>
 [36. Hyper-V snapshots with Powershell on Windows Server 2012 R2](https://youtu.be/BEfU1MgWr00)<br/>
-[37. Resource metering for Hyper-V with Powershell on Windows Server 2012 R2](https://youtu.be/14ut0XOhqmk)
+[37. Resource metering for Hyper-V with Powershell on Windows Server 2012 R2](https://youtu.be/14ut0XOhqmk)<br/>
+[38. Install and configure Hyper-V Server 2012 R2](https://youtu.be/Iy98EtHOg-M)
