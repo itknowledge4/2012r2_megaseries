@@ -46,4 +46,5 @@ You can find all presentations, code and other materials from the Windows Server
 [40. Hyper-V Live Migration with Powershell on Windows Server 2012 R2](https://youtu.be/rbeLXOro3mc)<br/>
 [41. Configure Constrained Delegation for Hyper-V with Powershell on Windows Server 2012 R2](https://youtu.be/es5D54iftRA)<br/>
 [42. Configure Hyper-V Replica with Powershell on Windows Server 2012 R2](https://youtu.be/6AJB-gRZehc)<br/>
-[43. Configure VM Failover IP settings with Powershell on Windows Server 2012 R2](https://youtu.be/WJ_F4MYYO5o)
+[43. Configure VM Failover IP settings with Powershell on Windows Server 2012 R2](https://youtu.be/WJ_F4MYYO5o)<br/>
+[44. Create a Hyper-V cluster with Powershell on Windows Server 2012 R2](https://youtu.be/NUix2IAXB3A)
