@@ -48,4 +48,5 @@ You can find all presentations, code and other materials from the Windows Server
 [42. Configure Hyper-V Replica with Powershell on Windows Server 2012 R2](https://youtu.be/6AJB-gRZehc)<br/>
 [43. Configure VM Failover IP settings with Powershell on Windows Server 2012 R2](https://youtu.be/WJ_F4MYYO5o)<br/>
 [44. Create a Hyper-V cluster with Powershell on Windows Server 2012 R2](https://youtu.be/NUix2IAXB3A)<br/>
-[45. Configure Hyper-V Replica Broker with Powershell on Windows Server 2012 R2](https://youtu.be/Ii6_dBI2fpc)
+[45. Configure Hyper-V Replica Broker with Powershell on Windows Server 2012 R2](https://youtu.be/Ii6_dBI2fpc)</br>
+[46. Introduction to NIC Teaming on Windows Server 2012 R2](https://youtu.be/gK6-Hj8MmeI)
