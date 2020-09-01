@@ -1,0 +1,1 @@
+whoami > C:\test\user.txt

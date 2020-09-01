@@ -50,4 +50,5 @@ You can find all presentations, code and other materials from the Windows Server
 [44. Create a Hyper-V cluster with Powershell on Windows Server 2012 R2](https://youtu.be/NUix2IAXB3A)<br/>
 [45. Configure Hyper-V Replica Broker with Powershell on Windows Server 2012 R2](https://youtu.be/Ii6_dBI2fpc)</br>
 [46. Introduction to NIC Teaming on Windows Server 2012 R2](https://youtu.be/gK6-Hj8MmeI)</br>
-[47. Configure NIC Teaming with Powershell on Windows Server 2012 R2](https://youtu.be/ZtkMoDiihGY)
+[47. Configure NIC Teaming with Powershell on Windows Server 2012 R2](https://youtu.be/ZtkMoDiihGY)<br/>
+[48. Create a Group Managed Service Account with Powershell on Windows Server 2012 R2](https://youtu.be/_FH68nFdFqo)
